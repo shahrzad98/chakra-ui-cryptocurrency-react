@@ -1,0 +1,20 @@
+<svg id="Group_11222" data-name="Group 11222" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.858" height="39.858" viewBox="0 0 39.858 39.858">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.274" cy="0.704" r="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_11221" data-name="Group 11221" transform="translate(2.019 2.161)">
+    <circle id="Ellipse_3268" data-name="Ellipse 3268" cx="1.296" cy="1.296" r="1.296" transform="translate(0 16.543)" fill="#bdbdbd"/>
+    <circle id="Ellipse_3269" data-name="Ellipse 3269" cx="1.296" cy="1.296" r="1.296" transform="translate(15.56)" fill="#bdbdbd"/>
+    <circle id="Ellipse_3270" data-name="Ellipse 3270" cx="1.296" cy="1.296" r="1.296" transform="translate(15.56 33.084)" fill="#bdbdbd"/>
+    <circle id="Ellipse_3271" data-name="Ellipse 3271" cx="1.296" cy="1.296" r="1.296" transform="translate(4.539 6.114)" fill="#bdbdbd"/>
+    <circle id="Ellipse_3272" data-name="Ellipse 3272" cx="1.296" cy="1.296" r="1.296" transform="translate(4.539 26.997)" fill="#bdbdbd"/>
+  </g>
+  <circle id="Ellipse_3273" data-name="Ellipse 3273" cx="1.296" cy="1.296" r="1.296" transform="translate(30.193 30.342)" fill="#757575"/>
+  <path id="Path_10606" data-name="Path 10606" d="M1156.929,1155.416h15.559a1.726,1.726,0,0,1,1.722,1.622c0-.037.006-.072.006-.109a1.728,1.728,0,0,0-1.729-1.729h-15.559a1.729,1.729,0,0,0-1.729,1.729.86.86,0,0,0,.006.109A1.725,1.725,0,0,1,1156.929,1155.416Z" transform="translate(-1136.088 -1136.969)" fill="rgba(255,255,255,0.2)"/>
+  <path id="Path_10607" data-name="Path 10607" d="M1174.21,1275a1.73,1.73,0,0,1-1.722,1.621h-15.559a1.726,1.726,0,0,1-1.722-1.621.85.85,0,0,0-.006.107,1.728,1.728,0,0,0,1.729,1.728h15.559a1.728,1.728,0,0,0,1.729-1.728A.873.873,0,0,0,1174.21,1275Z" transform="translate(-1136.088 -1254.833)" fill="rgba(33,33,33,0.2)"/>
+  <path id="Path_10608" data-name="Path 10608" d="M490.4,391.963a12.068,12.068,0,0,1,8.557,3.544l5-5-.107-.109-4.888,4.89a12.1,12.1,0,0,0-20.658,8.557c0,.037,0,.072,0,.109a12.1,12.1,0,0,1,12.1-11.993Z" transform="translate(-477.983 -382.208)" fill="rgba(33,33,33,0.1)"/>
+  <ellipse id="Ellipse_3274" data-name="Ellipse 3274" cx="19.929" cy="19.929" rx="19.929" ry="19.929" transform="translate(0)" fill="url(#radial-gradient)"/>
+</svg>

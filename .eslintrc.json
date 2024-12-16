@@ -1,0 +1,26 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "extends": ["prettier", "plugin:json/recommended"],
+  "plugins": ["react", "jsx-a11y", "prettier", "redux-saga", "react-hooks", "@typescript-eslint"],
+  "env": {
+    "jest": true,
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "createDefaultProgram": true,
+    "project": "./tsconfig.eslint.json"
+  },
+  "rules": {
+    "no-unused-vars": ["error", { "args": "none" }],
+    "import/prefer-default-export": "off",
+    "react/prop-types": 0
+  }
+}

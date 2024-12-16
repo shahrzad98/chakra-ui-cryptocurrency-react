@@ -1,0 +1,86 @@
+.modal__container {
+  position: fixed;
+  overflow: scroll;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5em 1em;
+  z-index: 999999;
+  box-sizing: border-box;
+
+  background-color: rgba(11, 20, 45, 0.2);
+  backdrop-filter: blur(4px);
+}
+
+.modal__container.modal-fade {
+  animation: fade-in 1s 1 linear;
+  animation-fill-mode: forwards;
+  opacity: 0;
+}
+
+.modal__container > .modal-overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.modal__body .modal__close--withHeader {
+  position: absolute;
+  z-index: 2;
+  left: 55px;
+  top: 40px;
+}
+.modal__body > .modal__close {
+  position: absolute;
+  z-index: 2;
+  right: 40px;
+  top: 40px;
+  color: #788ca6;
+  cursor: pointer;
+  margin: 7px;
+}
+
+.modal__container > .modal__body {
+  z-index: 2;
+  position: relative;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 8px;
+  padding: 50px 55px;
+  color: #c3c0c0;
+}
+
+
+@keyframes fade-in {
+  0% {
+    animation-timing-function: cubic-bezier(0.2242, 0.7499, 0.3142, 0.8148);
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .modal__container > .modal__body {
+    padding: 15px 20px;
+    width: 338px
+  }
+}
+
+
+@media (max-width: 768px) {
+  .modal__body > .modal__close {
+    right: 15px;
+    top: 25px;
+  }
+}

@@ -1,0 +1,68 @@
+.kyc__header {
+  font-family: yekan;
+  height: 300px;
+  background-color: #1652f0;
+
+  & p.typography {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #fff;
+
+    & > span {
+      font-family: 'yekanb';
+      font-size: 18px;
+    }
+  }
+
+
+  &--art svg {
+    margin: 0 auto;
+  }
+
+}
+
+.kyc__header--logo {
+  margin: 0 auto;
+
+  & button svg {
+    position: relative;
+    left: 5px;
+  }
+}
+
+.dotted-gradient {
+  background-image: linear-gradient(to right, #fff 20%, rgba(255, 255, 255, 0) 0%);
+  background-position: bottom;
+  background-size: 5px 1px;
+  background-repeat: repeat-x;
+  margin: 0 5px;
+}
+
+@media (max-width: 768px) {
+  .kyc__header {
+    height: 332px;
+
+    & p.typography {
+      padding: 0 2rem;
+
+      & span {
+        font-size: 16px;
+      }
+
+    }
+  }
+  .kyc__header--logo {
+    & button svg {
+      left: 2px;
+    }
+  }
+  .dotted-gradient {
+    background-image: none;
+  }
+}
+
+@media (max-width: 1439px) {
+  .kyc__header--art svg {
+    display: none;
+  }
+}

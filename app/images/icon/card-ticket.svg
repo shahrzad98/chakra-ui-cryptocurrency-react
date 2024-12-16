@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.999 55">
+  <g id="Group_13035" data-name="Group 13035" transform="translate(-0.296 -0.47)">
+    <rect id="Rectangle_1787" data-name="Rectangle 1787" width="31" height="55" transform="translate(24.295 0.47)" fill="#bfe9ff"/>
+    <g id="Group_13033" data-name="Group 13033" transform="translate(0.47 12.432)">
+      <rect id="Rectangle_1785" data-name="Rectangle 1785" width="23" height="31" transform="translate(23.827 0.038)" fill="#1652f0"/>
+      <path id="Path_12513" data-name="Path 12513" d="M21865.822,7935.085h13.189a1.165,1.165,0,0,0,.947-.49.991.991,0,0,0,.152-.908,4.517,4.517,0,0,0-4.3-3.127h-.576a7.311,7.311,0,0,1-5.629,0h-.582a4.525,4.525,0,0,0-4.3,3.127,1.006,1.006,0,0,0,.156.912A1.175,1.175,0,0,0,21865.822,7935.085Zm6.592-6.786a4.526,4.526,0,1,0-4.52-4.525A4.53,4.53,0,0,0,21872.414,7928.3Z" transform="translate(-21837.094 -7911.95)" fill="#fff"/>
+      <rect id="Rectangle_1786" data-name="Rectangle 1786" width="24" height="31" transform="translate(-0.173 0.038)" fill="#56b4fc"/>
+      <g id="Group_13034" data-name="Group 13034" transform="translate(4.056 8.179)">
+        <line id="Line_449" data-name="Line 449" x1="15.08" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <line id="Line_450" data-name="Line 450" x1="15.08" transform="translate(0 7.037)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        <line id="Line_451" data-name="Line 451" x1="15.08" transform="translate(0 14.075)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

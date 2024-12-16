@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61" height="105.999" viewBox="0 0 61 105.999">
+  <defs>
+    <filter id="Subtraction_2" x="0" y="0" width="61" height="105.999" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ARROW_LEFT_" data-name="ARROW LEFT " transform="translate(-6050 -632)">
+    <g transform="matrix(1, 0, 0, 1, 6050, 632)" filter="url(#Subtraction_2)">
+      <path id="Subtraction_2-2" data-name="Subtraction 2" d="M4280,1436h0v-88a41.9,41.9,0,0,1,16.738,3.458,42.819,42.819,0,0,1,13.668,9.43,43.932,43.932,0,0,1,9.215,13.986,45.094,45.094,0,0,1,0,34.253,43.931,43.931,0,0,1-9.215,13.986,42.819,42.819,0,0,1-13.668,9.43A41.9,41.9,0,0,1,4280,1436Z" transform="translate(-4271 -1339)" fill="#fff"/>
+    </g>
+    <g id="Iconly_Light_Arrow_-_Left_2" data-name="Iconly/Light/Arrow - Left 2" transform="translate(6070.917 677)">
+      <g id="Arrow_-_Left_2" data-name="Arrow - Left 2" transform="translate(7.583) rotate(90)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M15.167,0,7.583,7.583,0,0" fill="none" stroke="#59636e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

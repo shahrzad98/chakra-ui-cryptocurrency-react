@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.249" height="31.024" viewBox="0 0 34.249 31.024">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h34.249v31.024H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="icons_wallet" class="cls-2" data-name="icons/wallet">
+        <g id="Group">
+            <g id="Group-2" data-name="Group">
+                <path id="Shape" d="M29.112 30.824H5.137A5.143 5.143 0 0 1 0 25.687V5.137A5.143 5.143 0 0 1 5.137 0h17.124A5.143 5.143 0 0 1 27.4 5.137v1.712h1.712a5.143 5.143 0 0 1 5.137 5.138v13.7a5.143 5.143 0 0 1-5.137 5.137zM3.425 9.984v15.7A1.714 1.714 0 0 0 5.137 27.4h23.975a1.714 1.714 0 0 0 1.712-1.712v-1.713h-1.712a5.138 5.138 0 0 1 0-10.275h1.712v-1.712a1.714 1.714 0 0 0-1.712-1.712H5.137a5.169 5.169 0 0 1-1.712-.292zm25.687 7.14a1.712 1.712 0 0 0 0 3.425h1.712v-3.425zM5.137 3.425a1.712 1.712 0 0 0 0 3.425h18.838V5.137a1.715 1.715 0 0 0-1.714-1.712z" class="cls-3"/>
+            </g>
+        </g>
+    </g>
+</svg>

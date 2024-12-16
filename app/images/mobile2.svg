@@ -1,0 +1,24 @@
+<svg id="Group_11262" data-name="Group 11262" xmlns="http://www.w3.org/2000/svg" width="26.967" height="44.725" viewBox="0 0 26.967 44.725">
+  <g id="Rectangle_1482" data-name="Rectangle 1482" fill="none" stroke="#767676" stroke-width="2">
+    <rect width="26.967" height="44.725" rx="6" stroke="none"/>
+    <rect x="1" y="1" width="24.967" height="42.725" rx="5" fill="none"/>
+  </g>
+  <g id="Ellipse_389" data-name="Ellipse 389" transform="translate(11.182 37.49)" fill="none" stroke="#767676" stroke-width="1.5">
+    <circle cx="2.302" cy="2.302" r="2.302" stroke="none"/>
+    <circle cx="2.302" cy="2.302" r="1.552" fill="none"/>
+  </g>
+  <path id="Path_10559" data-name="Path 10559" d="M-19896.705-13279.092h-24.75" transform="translate(19922.652 13315.206)" fill="none" stroke="#767676" stroke-width="2"/>
+  <path id="Path_10565" data-name="Path 10565" d="M-19899.359-13326.217h-12.035" transform="translate(19918.691 13330.678)" fill="none" stroke="#767676" stroke-linecap="round" stroke-width="2"/>
+  <path id="Path_10566" data-name="Path 10566" d="M-19896.687-13321.4h-24.865" transform="translate(19922.701 13329.687)" fill="none" stroke="#767676" stroke-width="3"/>
+  <g id="Group_11263" data-name="Group 11263" transform="translate(3.711 17.222)">
+    <g id="Rectangle_1522" data-name="Rectangle 1522" fill="#fff" stroke="#707070" stroke-width="1.5">
+      <rect width="19.723" height="10.282" stroke="none"/>
+      <rect x="0.75" y="0.75" width="18.223" height="8.782" fill="none"/>
+    </g>
+    <g id="Group_11258" data-name="Group 11258" transform="translate(5.364 3.856)">
+      <line id="Line_292" data-name="Line 292" y2="2.57" fill="none" stroke="#707070" stroke-width="1.5"/>
+      <line id="Line_293" data-name="Line 293" y2="2.57" transform="translate(4.498)" fill="none" stroke="#707070" stroke-width="1.5"/>
+      <line id="Line_294" data-name="Line 294" y2="2.57" transform="translate(8.996)" fill="none" stroke="#707070" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

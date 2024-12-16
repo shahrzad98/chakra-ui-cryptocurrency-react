@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.435" height="18.158" viewBox="0 0 15.435 18.158">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="notifications-button" transform="translate(-38.25)">
+    <g id="notifications" transform="translate(38.25)">
+      <path id="Path_4850" data-name="Path 4850" class="cls-1" d="M45.967,18.158a1.821,1.821,0,0,0,1.816-1.816H44.151A1.821,1.821,0,0,0,45.967,18.158Zm5.9-5.448V7.717A5.842,5.842,0,0,0,47.329,2V1.362a1.362,1.362,0,0,0-2.724,0V2a5.842,5.842,0,0,0-4.54,5.72v4.994L38.25,14.527v.908H53.685v-.908Z" transform="translate(-38.25)"/>
+    </g>
+  </g>
+</svg>

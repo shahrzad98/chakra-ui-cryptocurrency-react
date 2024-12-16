@@ -1,0 +1,76 @@
+.singleCarousel {
+  position: relative;
+  overflow: hidden;
+  outline: none;
+  height: inherit;
+  width: 100%;
+  border-radius: 16px;
+  user-select: none;
+
+  > div {
+    position: absolute;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    width: 479px;
+    overflow: hidden;
+    filter: blur(2px);
+    transition: transform 0.5s, height 0.5s, top 0.5s, filter 1s;
+
+    &.active {
+      top: 50%;
+      filter: blur(0);
+    }
+
+    > div {
+      position: absolute;
+      top: 50%;
+      cursor: pointer;
+
+      &.singleCarousel__nav-left {
+        left: -8px;
+        transform: translateY(-50%);
+      }
+
+      &.singleCarousel__nav-right {
+        right: -8px;
+        transform: translateY(-50%);
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .singleCarousel {
+    margin-top: 81px;
+    box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.16);
+
+    > div {
+      top: 81px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 302px;
+      filter: none;
+      transition: none;
+
+      &.active {
+        filter: none;
+        top: 0;
+      }
+
+      &:not(.active) {
+        display: none;
+      }
+
+      &.singleCarousel__nav-left {
+        left: -5px;
+      }
+
+      &.singleCarousel__nav-right {
+        right: -5px;
+      }
+    }
+
+  }
+
+}

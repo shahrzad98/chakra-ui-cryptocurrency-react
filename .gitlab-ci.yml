@@ -1,0 +1,45 @@
+stages:
+    - build
+    - dev
+    - kube
+
+build:
+  image: git.rabex.co:5055/infra/base_images/docker:20.10.7-dind
+  stage: build
+  services:
+    - git.rabex.co:5055/infra/base_images/docker:20.10.7-dind
+  before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  script:
+    - docker build -t git.rabex.co:5055/frontend-projects/panel:$CI_COMMIT_SHORT_SHA .
+    - docker push git.rabex.co:5055/frontend-projects/panel:$CI_COMMIT_SHORT_SHA
+  tags:
+    - build
+    - docker
+    - go
+  only:
+    - master
+
+dev:
+  stage: dev
+  before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+  script:
+    - docker-compose up -d
+  tags:
+    - dev
+    - ssh
+  only:
+    - master
+
+kube:
+  stage: kube
+  image: git.rabex.co:5055/infra/base_images/kubectl
+  script:
+    - envsubst < kuber/deployment.yml | kubectl apply -f -
+    - kubectl apply -f kuber/service.yml
+  tags:
+    - kubernetes
+    - cluster
+  only:
+    - master

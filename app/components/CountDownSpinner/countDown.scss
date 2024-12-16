@@ -1,0 +1,44 @@
+.countdown {
+  position: relative;
+  margin: auto;
+  height: 25px;
+  width: 25px;
+  text-align: center;
+
+  & .time {
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 3px;
+  }
+}
+
+
+.countDown__svg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  transform: rotateY(-180deg) rotateZ(-90deg);
+}
+
+.countDown__svg circle {
+  stroke-dasharray: 113px;
+  stroke-dashoffset: 0;
+  stroke-linecap: round;
+  stroke-width: 4px;
+  stroke: white;
+  fill: none;
+  animation: countdown 300s linear infinite forwards;
+}
+
+@keyframes countdown {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: 113px;
+  }
+}

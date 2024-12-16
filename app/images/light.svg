@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.637" height="32.634" viewBox="0 0 22.637 32.634">
+  <g id="Group_11984" data-name="Group 11984" transform="translate(-1272.043 -708.334)">
+    <path id="Icon_material-lightbulb-outline" data-name="Icon material-lightbulb-outline" d="M12.38,26.18A1.224,1.224,0,0,0,13.6,27.4h4.88a1.224,1.224,0,0,0,1.22-1.22V24.96H12.38ZM16.04,3a8.536,8.536,0,0,0-4.88,15.543V21.3a1.224,1.224,0,0,0,1.22,1.22H19.7a1.224,1.224,0,0,0,1.22-1.22V18.543A8.536,8.536,0,0,0,16.04,3Zm3.477,13.542-1.037.732V20.08H13.6V17.274l-1.037-.732a6.1,6.1,0,1,1,6.954,0Z" transform="translate(1267.229 713.568)" fill="#1652f0"/>
+    <path id="Path_12422" data-name="Path 12422" d="M0,1.85,1.926,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 1291.121, 714.724)" fill="none" stroke="#1652f0" stroke-linecap="square" stroke-width="2"/>
+    <path id="Path_12424" data-name="Path 12424" d="M0,0,1.811,1.738" transform="matrix(-0.998, -0.07, 0.07, -0.998, 1275.359, 716.449)" fill="none" stroke="#1652f0" stroke-linecap="square" stroke-width="2"/>
+    <path id="Path_12423" data-name="Path 12423" d="M0,2.386,2.414,0" transform="translate(1281.563 712.041) rotate(-45)" fill="none" stroke="#1652f0" stroke-linecap="square" stroke-width="2"/>
+  </g>
+</svg>

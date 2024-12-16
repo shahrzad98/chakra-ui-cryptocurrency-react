@@ -1,0 +1,26 @@
+input[type='radio'].check-custom {
+    position: absolute;
+    top: auto;
+    visibility: hidden;
+  }
+  input[type='radio'].check-custom:checked + label {
+    border-color: #1652f0;
+  }
+  
+  /* Styles for the hover state appearance of the custom checkbox */
+  input[type='radio'].check-custom:hover ~ .check-toggle {
+    border-color: #1652f0;
+  }
+  
+  /* Styles for the focus state appearance of the custom checkbox */
+  input[type='radio'].check-custom:focus ~ .check-toggle {
+    border-color: #b0d5ff;
+    box-shadow: 0 0 0 2px rgba(23, 133, 255, 0.25);
+  }
+  
+  /* Styles for the checked state appearance of the custom checkbox */
+  input[type='radio'].check-custom:checked ~ .check-toggle {
+    border-color: #1652f0;
+    background: #1652f0 url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMCA2IDkgMTcgNCAxMiI+PC9wb2x5bGluZT48L3N2Zz4=) center no-repeat;
+    background-size: 75%;
+  }

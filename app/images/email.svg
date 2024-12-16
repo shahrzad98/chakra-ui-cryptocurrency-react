@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.234" height="20.242" viewBox="0 0 26.234 20.242">
+  <g id="Group_11258" data-name="Group 11258" transform="translate(-0.001)">
+    <g id="Group_11260" data-name="Group 11260" transform="translate(0 2.89)">
+      <g id="Path_10609" data-name="Path 10609" transform="translate(16862.273 16903.326)" fill="none">
+        <path d="M-16862.273-16903.326h21.8v17.352h-21.8Z" stroke="none"/>
+        <path d="M -16861.2734375 -16902.326171875 L -16861.2734375 -16886.974609375 L -16841.47265625 -16886.974609375 L -16841.47265625 -16902.326171875 L -16861.2734375 -16902.326171875 M -16862.2734375 -16903.326171875 L -16840.47265625 -16903.326171875 L -16840.47265625 -16885.974609375 L -16862.2734375 -16885.974609375 L -16862.2734375 -16903.326171875 Z" stroke="none" fill="#707070"/>
+      </g>
+      <path id="Path_10610" data-name="Path 10610" d="M-16838.809-16896.467l10.758,6.367,10.078-6.367" transform="translate(16839.314 16899.559)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Group_11261" data-name="Group 11261" transform="translate(7.863)">
+      <g id="Rectangle_1522" data-name="Rectangle 1522" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="18.372" height="8.646" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17.372" height="7.646" fill="none"/>
+      </g>
+      <g id="Group_11258-2" data-name="Group 11258" transform="translate(5.404 3.242)">
+        <line id="Line_292" data-name="Line 292" y2="2.161" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_293" data-name="Line 293" y2="2.161" transform="translate(3.783)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_294" data-name="Line 294" y2="2.161" transform="translate(7.565)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

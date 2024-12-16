@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 158.283 174.051">
+  <defs>
+    <filter id="Path_13120" x="0" y="0" width="121.745" height="158.78" filterUnits="userSpaceOnUse">
+      <feOffset/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#0052ff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_13121" x="36.538" y="15.418" width="121.745" height="158.633" filterUnits="userSpaceOnUse">
+      <feOffset/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-color="#0052ff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18123" mask="Group 18123" transform="translate(-1382.231 -285.025)">
+    <path id="Path_13180" mask="Path 13180" d="M141.6,153.272c0-.014,0-.029,0-.043s-.006-.032-.009-.048,0-.029-.009-.043-.009-.03-.014-.045-.009-.028-.014-.042-.013-.028-.02-.043-.012-.027-.019-.04-.017-.027-.026-.041-.015-.024-.024-.036-.021-.025-.032-.038-.018-.022-.027-.032-.027-.024-.04-.036-.018-.018-.028-.026-.034-.024-.051-.036l-.024-.016,0,0h0l-19.717-11.892a.71.71,0,0,0-.707-.015L96.2,154.291V133.439c0-.015,0-.029,0-.043s0-.029,0-.043-.006-.033-.009-.049,0-.028-.008-.042-.01-.031-.015-.046-.008-.028-.014-.041-.013-.029-.02-.043-.012-.027-.019-.04-.017-.027-.026-.04-.016-.025-.024-.037-.02-.024-.03-.036-.019-.023-.03-.034-.022-.021-.034-.031-.022-.021-.035-.031-.025-.017-.037-.026-.024-.018-.037-.026l-19.723-11.9a.708.708,0,0,0-.707-.015L55.7,131.721l0,0,0,0c-.011.006-.021.014-.032.021s-.03.018-.043.028-.022.019-.033.028-.026.021-.037.032-.02.023-.031.034-.021.023-.031.035-.018.026-.027.039-.017.024-.025.037-.015.029-.023.043-.014.026-.019.039-.012.03-.017.046-.01.027-.014.041-.008.032-.011.048-.007.029-.009.043,0,.032,0,.049,0,.025,0,.038,0,0,0,.007,0,.005,0,.008v43.939L35.973,186.888l0,0,0,0c-.013.007-.024.016-.036.023s-.027.017-.04.026l-.034.029c-.012.011-.025.021-.037.032s-.019.021-.029.032-.023.024-.033.037-.016.023-.025.035-.019.027-.028.041-.013.025-.02.038-.015.029-.022.044-.01.027-.015.041-.012.03-.016.046-.007.03-.01.045-.007.031-.009.046,0,.032,0,.048,0,.026,0,.039,0,0,0,.007,0,.005,0,.008v22.7a.709.709,0,0,0,.343.607l19.723,11.9h0c.014.008.029.015.043.022s.027.015.041.021.038.014.058.02l.032.011a.69.69,0,0,0,.07.014l.023,0a.694.694,0,0,0,.271-.016c.019,0,.037-.015.056-.022a.7.7,0,0,0,.108-.043l24.636-13.491v20.66a.709.709,0,0,0,.343.607l19.721,11.9h0l0,0c.018.011.038.019.057.029l.027.014c.019.008.04.014.06.021l.031.011c.02.006.041.009.062.013l.031.006a.7.7,0,0,0,.094.006.713.713,0,0,0,.176-.023c.021-.005.04-.016.06-.024a.725.725,0,0,0,.1-.041L121.514,231.6a.709.709,0,0,0,.368-.622V187.235l19.355-10.6a.709.709,0,0,0,.368-.622v-22.7C141.605,153.3,141.6,153.286,141.6,153.272Zm-20.446-11.035,18.318,11.048-24.587,13.468-.044.021L101.467,174.1l-5.07-3.056-.2-.119V155.908ZM75.75,122.361l18.318,11.048-10.045,5.5-8.242,4.512-7.874-4.749-10.443-6.3Zm-19,53.941V133.6L75.057,144.64v42.706Zm-.726,1.218,18.32,11.052-18.29,10.015-12.485-7.53-5.833-3.518Zm-19,11.245,18.305,11.04v21.041l-18.305-11.04Zm19.723,11.06,19.361-10.6,0,0h0a.712.712,0,0,0,.144-.106l0,0a.707.707,0,0,0,.174-.267l.007-.021a.705.705,0,0,0,.038-.225V144.657l11.583-6.341,6.722-3.68v65.442L56.746,220.906Zm25.685,8.632,13.4-7.338a.709.709,0,0,0,.368-.622V172.583l1.145.69,3.391,2.043v65.217l-18.3-11.04Zm57.755-32.866-19.355,10.6a.709.709,0,0,0-.368.622v43.746l-18.311,10.031V219.179a.711.711,0,0,0,.006-.093V175.341l13.358-7.317.011-.005,21.266-11.649,3.394-1.859Z" transform="translate(1373.563 196.104)" fill="#606060" opacity="0.05"/>
+    <g id="Group_15281" mask="Group 15281" transform="translate(1420.874 330.025)">
+      <g id="Logo-Res" transform="translate(6.358 0)">
+        <g transform="matrix(1, 0, 0, 1, -45, -45)" filter="url(#Path_13120)">
+          <path id="Path_13120-2" mask="Path 13120" d="M137.544,186.517V168.909l15.874-8.384V126.114l15.871-8.377v52.019Z" transform="translate(-92.54 -72.74)" fill="#fff" opacity="0.57"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -45, -45)" filter="url(#Path_13121)">
+          <path id="Path_13121-2" mask="Path 13121" d="M218.154,169.783,249.9,153.019v17.607l-15.871,8.38v34.261l-15.874,8.384Z" transform="translate(-136.62 -92.6)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_15276" mask="Group 15276" transform="translate(0 1.256)">
+        <g id="Group_15264" mask="Group 15264" transform="translate(0 0)">
+          <circle id="Ellipse_339" mask="Ellipse 339" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185)" fill="#0052ff"/>
+          <circle id="Ellipse_342" mask="Ellipse 342" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 15.716)" fill="#0052ff"/>
+          <circle id="Ellipse_345" mask="Ellipse 345" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 32.036)" fill="#0052ff"/>
+          <circle id="Ellipse_348" mask="Ellipse 348" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 47.752)" fill="#0052ff"/>
+          <circle id="Ellipse_351" mask="Ellipse 351" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_374" mask="Ellipse 374" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 79.788)" fill="#0052ff"/>
+          <circle id="Ellipse_387" mask="Ellipse 387" cx="0.907" cy="0.907" r="0.907" transform="translate(79.185 94.9)" fill="#0052ff"/>
+          <circle id="Ellipse_357" mask="Ellipse 357" cx="0.907" cy="0.907" r="0.907" transform="translate(31.432 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_367" mask="Ellipse 367" cx="0.907" cy="0.907" r="0.907" transform="translate(31.432 79.788)" fill="#0052ff"/>
+          <circle id="Ellipse_380" mask="Ellipse 380" cx="0.907" cy="0.907" r="0.907" transform="translate(31.432 94.9)" fill="#0052ff"/>
+          <circle id="Ellipse_338" mask="Ellipse 338" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 0)" fill="#0052ff"/>
+          <circle id="Ellipse_341" mask="Ellipse 341" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 15.716)" fill="#0052ff"/>
+          <circle id="Ellipse_344" mask="Ellipse 344" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 32.036)" fill="#0052ff"/>
+          <circle id="Ellipse_347" mask="Ellipse 347" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 47.752)" fill="#0052ff"/>
+          <circle id="Ellipse_350" mask="Ellipse 350" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_373" mask="Ellipse 373" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 79.788)" fill="#0052ff"/>
+          <circle id="Ellipse_386" mask="Ellipse 386" cx="0.907" cy="0.907" r="0.907" transform="translate(62.864 94.9)" fill="#0052ff"/>
+          <circle id="Ellipse_356" mask="Ellipse 356" cx="0.907" cy="0.907" r="0.907" transform="translate(15.716 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_364" mask="Ellipse 364" cx="0.907" cy="0.907" r="0.907" transform="translate(15.716 79.788)" fill="#0052ff"/>
+          <circle id="Ellipse_377" mask="Ellipse 377" cx="0.907" cy="0.907" r="0.907" transform="translate(15.716 94.9)" fill="#0052ff"/>
+          <circle id="Ellipse_349" mask="Ellipse 349" cx="0.907" cy="0.907" r="0.907" transform="translate(47.753 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_372" mask="Ellipse 372" cx="0.907" cy="0.907" r="0.907" transform="translate(47.753 79.788)" fill="#0052ff"/>
+          <circle id="Ellipse_385" mask="Ellipse 385" cx="0.907" cy="0.907" r="0.907" transform="translate(47.753 94.9)" fill="#0052ff"/>
+          <circle id="Ellipse_355" mask="Ellipse 355" cx="0.907" cy="0.907" r="0.907" transform="translate(0 63.468)" fill="#0052ff"/>
+          <circle id="Ellipse_365" mask="Ellipse 365" cx="0.907" cy="0.907" r="0.907" transform="translate(0 79.789)" fill="#0052ff"/>
+          <circle id="Ellipse_378" mask="Ellipse 378" cx="0.907" cy="0.907" r="0.907" transform="translate(0 94.9)" fill="#0052ff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

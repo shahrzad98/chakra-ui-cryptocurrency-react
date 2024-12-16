@@ -1,0 +1,15 @@
+<svg id="Group_4607" data-name="Group 4607" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="37" viewBox="0 0 38 37">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="20.006" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_729" data-name="Rectangle 729" width="38" height="37" rx="3" fill="#f4f6fa"/>
+  <g id="icons_edit-alt" data-name="icons/edit-alt" transform="translate(9 9)" clip-path="url(#clip-path)">
+    <g id="Group" transform="translate(0 0)">
+      <g id="Group-2" data-name="Group" transform="translate(0 0)">
+        <path id="Shape" d="M19,20.006H1a1,1,0,0,1,0-2H19a1,1,0,0,1,0,2Zm-11.753-4H3a1,1,0,0,1-1-1v-4.24a1,1,0,0,1,.29-.71L9.23,3.126,12.05.3a1,1,0,0,1,1.42,0l4.24,4.289a1,1,0,0,1,0,1.42l-2.84,2.78-6.92,6.93A.99.99,0,0,1,7.247,16.006ZM9.93,5.246h0L4,11.176v2.83H6.83l5.93-5.93L9.93,5.246Zm2.83-2.83h0l-1.42,1.42,2.83,2.83,1.42-1.419-2.83-2.83Z" fill="#788ca6"/>
+      </g>
+    </g>
+  </g>
+</svg>

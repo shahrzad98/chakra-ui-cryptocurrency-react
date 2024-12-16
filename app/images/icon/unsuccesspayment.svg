@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="119" viewBox="0 0 121 119">
+  <g id="Group_11693" data-name="Group 11693" transform="translate(20134 14206)">
+    <ellipse id="Ellipse_3287" data-name="Ellipse 3287" cx="60.5" cy="59.5" rx="60.5" ry="59.5" transform="translate(-20134 -14206)" fill="#1652f0"/>
+    <g id="Group_11694" data-name="Group 11694">
+      <rect id="Rectangle_1578" data-name="Rectangle 1578" width="78" height="89" transform="translate(-20110 -14176)" fill="#fff"/>
+      <g id="Group_11693-2" data-name="Group 11693">
+        <rect id="Rectangle_1579" data-name="Rectangle 1579" width="52" height="7" transform="translate(-20097 -14134)" fill="#d3ebff"/>
+        <rect id="Rectangle_1580" data-name="Rectangle 1580" width="52" height="7" transform="translate(-20097 -14121)" fill="#d3ebff"/>
+        <rect id="Rectangle_1581" data-name="Rectangle 1581" width="24" height="7" transform="translate(-20083 -14108)" fill="#d3ebff"/>
+        <path id="Icon_metro-cross" data-name="Icon metro-cross" d="M21.151,16.993h0L15.463,11.3l5.689-5.689h0a.587.587,0,0,0,0-.829L18.464,2.1a.588.588,0,0,0-.829,0h0L11.947,7.788,6.258,2.1h0a.587.587,0,0,0-.829,0L2.742,4.787a.587.587,0,0,0,0,.829h0L8.431,11.3,2.742,16.993h0a.587.587,0,0,0,0,.829l2.687,2.687a.587.587,0,0,0,.829,0h0l5.689-5.689,5.689,5.689h0a.587.587,0,0,0,.828,0l2.687-2.687a.587.587,0,0,0,0-.829Z" transform="translate(-20082.945 -14164.803)" fill="#1652f0"/>
+      </g>
+    </g>
+  </g>
+</svg>

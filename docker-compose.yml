@@ -1,0 +1,26 @@
+services:
+  panel:
+    image: git.rabex.co:5055/frontend-projects/panel:$CI_COMMIT_SHORT_SHA
+    container_name: "panel"
+    restart: always
+    ports:
+      - "8300:80"
+    labels:
+      - "traefik.docker.network=proxy"
+      - "traefik.enable=true"
+      - "traefik.backend=panel"
+      - "traefik.port=80"
+      - "traefik.http.routers.panel.rule=Host(`panel.rabex.co`)"
+    networks:
+      - rbx
+      - frontend
+      - proxy
+
+
+networks:
+  rbx:
+    external: true
+  frontend:
+    external: true
+  proxy:
+    external: true

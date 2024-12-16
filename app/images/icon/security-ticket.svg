@@ -1,0 +1,21 @@
+<svg id="Group_13040" data-name="Group 13040" xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <rect id="Rectangle_1791" data-name="Rectangle 1791" width="55" height="43" transform="translate(0 7)" fill="#56b4fc"/>
+  <rect id="Rectangle_1792" data-name="Rectangle 1792" width="7" height="6" transform="translate(0 49)" fill="#56b4fc"/>
+  <rect id="Rectangle_1793" data-name="Rectangle 1793" width="7" height="6" transform="translate(48 49)" fill="#56b4fc"/>
+  <rect id="Rectangle_1788" data-name="Rectangle 1788" width="41" height="36" transform="translate(7 7)" fill="#1652f0"/>
+  <rect id="Rectangle_1794" data-name="Rectangle 1794" width="41" height="7" transform="translate(7)" fill="#bfe9ff"/>
+  <rect id="Rectangle_1789" data-name="Rectangle 1789" width="3" height="7" transform="translate(5 13)" fill="#1652f0"/>
+  <rect id="Rectangle_1790" data-name="Rectangle 1790" width="3" height="7" transform="translate(5 30)" fill="#1652f0"/>
+  <g id="Group_13039" data-name="Group 13039" transform="translate(16 13)">
+    <line id="Line_452" data-name="Line 452" x1="15" y1="15" transform="translate(4.5 4.5)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+    <line id="Line_453" data-name="Line 453" y1="15" x2="15" transform="translate(4.5 4.5)" fill="none" stroke="#fff" stroke-linecap="square" stroke-width="1"/>
+    <g id="Ellipse_3304" data-name="Ellipse 3304" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3305" data-name="Ellipse 3305" transform="translate(6 6)" fill="#1652f0" stroke="#fff" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+  </g>
+</svg>

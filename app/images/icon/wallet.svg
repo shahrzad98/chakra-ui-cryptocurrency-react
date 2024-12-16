@@ -1,0 +1,7 @@
+<svg id="icons_wallet" data-name="icons/wallet" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 13.333 12">
+  <g id="Group" transform="translate(0)">
+    <g id="Group-2" data-name="Group" transform="translate(0)">
+      <path id="Shape" d="M11.333,12H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H8.666a2,2,0,0,1,2,2v.667h.667a2,2,0,0,1,2,2V10A2,2,0,0,1,11.333,12Zm-10-8.113V10A.667.667,0,0,0,2,10.667h9.334A.667.667,0,0,0,12,10V9.334h-.667a2,2,0,0,1,0-4H12V4.667A.667.667,0,0,0,11.333,4H2A2.012,2.012,0,0,1,1.333,3.887Zm10,2.78a.667.667,0,1,0,0,1.333H12V6.667ZM2,1.333A.667.667,0,0,0,2,2.666H9.334V2a.668.668,0,0,0-.667-.667Z" fill="current"/>
+    </g>
+  </g>
+</svg>

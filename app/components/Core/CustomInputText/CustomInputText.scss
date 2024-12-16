@@ -1,0 +1,13 @@
+.inputcontainer {
+  position: relative;
+  padding: 0 0 0 55px;
+  border: 1px solid #edf2f7;
+  direction: ltr;
+}
+.inputbutton::placeholder {
+  text-align: center;
+}
+.inputbutton {
+  width: 100%;
+  height: 40px;
+}

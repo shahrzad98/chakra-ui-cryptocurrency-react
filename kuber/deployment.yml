@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: panel
+  labels:
+    app: panel
+    type: frontend
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: panel
+      type: frontend
+  template:
+    metadata:
+      labels:
+        app: panel
+        type: frontend
+    spec:
+      containers:
+      - name: panel
+        image: git.rabex.co:5055/frontend-projects/panel:$CI_COMMIT_SHORT_SHA
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+        - name: gitlab-registry

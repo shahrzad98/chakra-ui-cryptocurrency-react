@@ -1,0 +1,32 @@
+<svg id="google-authenticator-seeklogo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.274" cy="0.704" r="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse id="Ellipse_3267" data-name="Ellipse 3267" cx="19.929" cy="19.929" rx="19.929" ry="19.929" transform="translate(0.142)" fill="#616161"/>
+  <path id="Path_10599" data-name="Path 10599" d="M47.169,59.727A12.727,12.727,0,1,1,56.244,38l5.186-5.143a20,20,0,1,0,0,28.285L56.245,56A12.866,12.866,0,0,1,47.169,59.727Z" transform="translate(-27 -27)" fill="#9e9e9e"/>
+  <path id="Path_10600" data-name="Path 10600" d="M891.253,879.152H885.2a6.051,6.051,0,1,0-10.411,4.193l0,0,7.492,7.492h0a12.1,12.1,0,0,0,8.974-11.691Z" transform="translate(-855.923 -858.878)" fill="#424242"/>
+  <path id="Path_10601" data-name="Path 10601" d="M1487.988,1268h-6.916a12.107,12.107,0,0,1-8.972,11.691l5.34,5.34A19.017,19.017,0,0,0,1487.988,1268Z" transform="translate(-1447.99 -1247.017)" fill="#616161"/>
+  <path id="Path_10602" data-name="Path 10602" d="M47,1279.808c-11.007,0-19.936-8.456-20-18.908,0,.037,0,.072,0,.109,0,10.5,8.954,19.017,20,19.017s20-8.514,20-19.017c0-.037,0-.072,0-.109-.063,10.453-8.993,18.908-20,18.908Z" transform="translate(-27 -1240.026)" fill="rgba(33,33,33,0.1)"/>
+  <path id="Path_10603" data-name="Path 10603" d="M1472.2,1279.691l.169.169a12.1,12.1,0,0,0,8.8-11.643V1268a12.107,12.107,0,0,1-8.972,11.691Z" transform="translate(-1448.556 -1247.555)" fill="rgba(255,255,255,0.05)"/>
+  <g id="Group_11220" data-name="Group 11220" transform="translate(19.253 18.271)">
+    <path id="Path_10604" data-name="Path 10604" d="M935.989,918.7h-15.56a1.729,1.729,0,1,0,0,3.457h15.559a1.729,1.729,0,0,0,0-3.457Z" transform="translate(-918.7 -918.7)" fill="#9e9e9e"/>
+    <path id="Path_10605" data-name="Path 10605" d="M935.989,918.7h-15.56a1.729,1.729,0,1,0,0,3.457h15.559a1.729,1.729,0,0,0,0-3.457Z" transform="translate(-918.7 -918.7)" fill="#bdbdbd" opacity="0.5"/>
+  </g>
+  <g id="Group_11222" data-name="Group 11222" transform="translate(0.142)">
+    <g id="Group_11221" data-name="Group 11221" transform="translate(2.019 2.161)">
+      <circle id="Ellipse_3268" data-name="Ellipse 3268" cx="1.296" cy="1.296" r="1.296" transform="translate(0 16.543)" fill="#bdbdbd"/>
+      <circle id="Ellipse_3269" data-name="Ellipse 3269" cx="1.296" cy="1.296" r="1.296" transform="translate(15.56)" fill="#bdbdbd"/>
+      <circle id="Ellipse_3270" data-name="Ellipse 3270" cx="1.296" cy="1.296" r="1.296" transform="translate(15.56 33.084)" fill="#bdbdbd"/>
+      <circle id="Ellipse_3271" data-name="Ellipse 3271" cx="1.296" cy="1.296" r="1.296" transform="translate(4.539 6.114)" fill="#bdbdbd"/>
+      <circle id="Ellipse_3272" data-name="Ellipse 3272" cx="1.296" cy="1.296" r="1.296" transform="translate(4.539 26.997)" fill="#bdbdbd"/>
+    </g>
+    <circle id="Ellipse_3273" data-name="Ellipse 3273" cx="1.296" cy="1.296" r="1.296" transform="translate(30.193 30.342)" fill="#757575"/>
+    <path id="Path_10606" data-name="Path 10606" d="M1156.929,1155.416h15.559a1.726,1.726,0,0,1,1.722,1.622c0-.037.006-.072.006-.109a1.728,1.728,0,0,0-1.729-1.729h-15.559a1.729,1.729,0,0,0-1.729,1.729.86.86,0,0,0,.006.109A1.725,1.725,0,0,1,1156.929,1155.416Z" transform="translate(-1136.088 -1136.969)" fill="rgba(255,255,255,0.2)"/>
+    <path id="Path_10607" data-name="Path 10607" d="M1174.21,1275a1.73,1.73,0,0,1-1.722,1.621h-15.559a1.726,1.726,0,0,1-1.722-1.621.85.85,0,0,0-.006.107,1.728,1.728,0,0,0,1.729,1.728h15.559a1.728,1.728,0,0,0,1.729-1.728A.873.873,0,0,0,1174.21,1275Z" transform="translate(-1136.088 -1254.833)" fill="rgba(33,33,33,0.2)"/>
+    <path id="Path_10608" data-name="Path 10608" d="M490.4,391.963a12.068,12.068,0,0,1,8.557,3.544l5-5-.107-.109-4.888,4.89a12.1,12.1,0,0,0-20.658,8.557c0,.037,0,.072,0,.109a12.1,12.1,0,0,1,12.1-11.993Z" transform="translate(-477.983 -382.208)" fill="rgba(33,33,33,0.1)"/>
+    <ellipse id="Ellipse_3274" data-name="Ellipse 3274" cx="19.929" cy="19.929" rx="19.929" ry="19.929" transform="translate(0)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
